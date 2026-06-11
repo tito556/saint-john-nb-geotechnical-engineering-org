@@ -1,0 +1,44 @@
+# Geotechnical Engineering — Saint John NB
+
+> Geotechnical engineering services in Saint John NB, Canada.
+
+## Services
+- [Anchors](https://saint-john-nb.geotechnical-engineering.org/anchors/)
+- [Cpt Test](https://saint-john-nb.geotechnical-engineering.org/cpt-test/)
+- [Excavation Monitoring](https://saint-john-nb.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://saint-john-nb.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://saint-john-nb.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://saint-john-nb.geotechnical-engineering.org/footings/)
+- [Foundations](https://saint-john-nb.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://saint-john-nb.geotechnical-engineering.org/geophysics/)
+- [Ground Improvement](https://saint-john-nb.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://saint-john-nb.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://saint-john-nb.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://saint-john-nb.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://saint-john-nb.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://saint-john-nb.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://saint-john-nb.geotechnical-engineering.org/liquefaction/)
+- [Mat Foundations](https://saint-john-nb.geotechnical-engineering.org/mat-foundations/)
+- [Plate Load Test](https://saint-john-nb.geotechnical-engineering.org/plate-load-test/)
+- [Retaining Walls](https://saint-john-nb.geotechnical-engineering.org/retaining-walls/)
+- [Rigid Pavement](https://saint-john-nb.geotechnical-engineering.org/rigid-pavement/)
+- [Road Geotechnics](https://saint-john-nb.geotechnical-engineering.org/road-geotechnics/)
+- [Sand Cone Density](https://saint-john-nb.geotechnical-engineering.org/sand-cone-density/)
+- [Seismic](https://saint-john-nb.geotechnical-engineering.org/seismic/)
+- [Seismic Isolation](https://saint-john-nb.geotechnical-engineering.org/seismic-isolation/)
+- [Seismic Microzonation](https://saint-john-nb.geotechnical-engineering.org/seismic-microzonation/)
+- [Seismic Refraction](https://saint-john-nb.geotechnical-engineering.org/seismic-refraction/)
+- [Slope Stability](https://saint-john-nb.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://saint-john-nb.geotechnical-engineering.org/slopes/)
+- [Soft Ground Tunnels](https://saint-john-nb.geotechnical-engineering.org/soft-ground-tunnels/)
+- [Spt Drilling](https://saint-john-nb.geotechnical-engineering.org/spt-drilling/)
+- [Test Pits](https://saint-john-nb.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://saint-john-nb.geotechnical-engineering.org/triaxial/)
+- [Vibrocompaction](https://saint-john-nb.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://saint-john-nb.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Saint John NB, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
